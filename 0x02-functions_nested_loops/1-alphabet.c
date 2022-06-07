@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (Succes)
  */
-void main(void)
+void print_alphabet(void)
 {
 	int n;
 
